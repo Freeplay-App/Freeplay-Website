@@ -1,4 +1,4 @@
-# Freeplay
+# Freeplay-Website
 Normally we are against Vibecoding, but let's be honest...
 
 ***Who wants to build a whole good looking website while coding a Desktop app?*** 
